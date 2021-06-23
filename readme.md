@@ -1,3 +1,5 @@
-## curso de Test-Driven Development
+## Test-Driven Development
 
-Curso de tdd com python
+### Curso de tdd com python
+
+run unittest: python -m unittest -v

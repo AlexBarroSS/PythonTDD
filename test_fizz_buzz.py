@@ -1,8 +1,6 @@
 from fizz_buzz import robot
 import unittest
 
-# using unittest - python -m unittest -v
-
 
 class FizzBuzzTest(unittest.TestCase):
     def test_say_1_when_1(self):
